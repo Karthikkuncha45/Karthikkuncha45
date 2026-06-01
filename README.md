@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kuncha%20Karthik&fontSize=55&fontColor=00d4ff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Developer%20%7C%20AI%20%26%20ML%20Student&descAlignY=58&descColor=a0d8ef&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kuncha%20Karthik&fontSize=55&fontColor=00d4ff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20Developer%20%7C%20AI%20%26amp%3B%20ML%20Student&descAlignY=58&descColor=a0d8ef&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -257,6 +257,7 @@ public class KarthikKuncha {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-kuncha-2b845b289/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Karthik__45/)
 [![Gmail](https://img.shields.io/badge/Gmail-kunchakarthik0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunchakarthik0@gmail.com)
+
 
 </div>
 
