@@ -206,35 +206,7 @@ public class KarthikKuncha {
   <img src="https://raw.githubusercontent.com/Karthikkuncha45/Karthikkuncha45/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> ⚠️ **To enable the snake animation**, add this GitHub Action to your repo:  
-> Create `.github/workflows/snake.yml` with the code below 👇
 
-<details>
-<summary>📄 Click to expand: <code>snake.yml</code></summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 </details>
