@@ -207,11 +207,7 @@ public class KarthikKuncha {
 </div>
 
 
-```
 
-</details>
-
----
 
 <div align="center">
 
